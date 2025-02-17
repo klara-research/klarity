@@ -2,3 +2,5 @@ info.txt
 __pycache__
 *.egg-info
 .venv
+.env
+logs

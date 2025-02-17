@@ -18,6 +18,10 @@ dependencies = [
     "pydantic>=2.0.0",
     "together==1.4.0",
     "matplotlib>=3.9.4",
+    "vllm>=0.7.2",
+    "setuptools>=75.8.0",
+    "datasets>=3.2.0",
+    "loguru>=0.7.3",
 ]
 
 [project.urls]
