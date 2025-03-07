@@ -9,6 +9,9 @@
 **Generative AI Toolkit: Automated Explainability, Error Mitigation & Multi-Modal Support**
     <br>
     <br>
+    📊**Update 07/03 entropy + judge LLM hallucinations detection benchmark**
+    <br>
+    <br>
     🖼️ **Update 12/02 support integration for VLM and visual attention monitoring**
     <br>
     <br>
@@ -43,6 +46,17 @@ Klarity is a toolkit for inspecting and debugging AI decision-making processes. 
   <br>
   <p><i>Entropy Analysis Example - Analyzing token-level uncertainty patterns</i></p>
   <img src="assets/example.png" alt="example" width="800"/>
+  <br>
+</div>
+
+## 📊 Benchmark Results
+
+Our latest benchmark shows how Klarity's entropy + judge LLM metrics significantly improve hallucination detection compared to standard methods. The results demonstrate superior performance across diverse model sizes and types. You can find our testing notebook in the examples folder.
+
+<div align="center">
+  <br>
+  <p><i>Hallucination Detection Benchmark - Comparing entropy-based metrics against traditional confidence scores</i></p>
+  <img src="assets/benchmark.png" alt="benchmark" width="800">
   <br>
 </div>
 
