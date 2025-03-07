@@ -9,7 +9,7 @@
 **Generative AI Toolkit: Automated Explainability, Error Mitigation & Multi-Modal Support**
     <br>
     <br>
-    📊**Update 07/03 entropy + judge LLM hallucinations detection benchmark**
+    📊**Update 07/03 entropy + judge LLM hallucinations detection benchmark! 80%+ accuracy across multiple models**
     <br>
     <br>
     🖼️ **Update 12/02 support integration for VLM and visual attention monitoring**
@@ -55,7 +55,7 @@ Our latest benchmark shows how Klarity's entropy + judge LLM metrics significant
 
 <div align="center">
   <br>
-  <p><i>Hallucination Detection Benchmark - Comparing entropy-based metrics against traditional confidence scores</i></p>
+  <p><i>Hallucination Detection Benchmark - Test entropy-based + judge LLM metrics on hallucination detection datasets</i></p>
   <img src="assets/benchmark.png" alt="benchmark" width="800">
   <br>
 </div>
