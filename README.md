@@ -9,7 +9,7 @@
 **Generative AI Toolkit: Automated Explainability, Error Mitigation & Multi-Modal Support**
     <br>
     <br>
-    📊**Update 07/03 entropy + judge LLM hallucinations detection benchmark! 80%+ accuracy across multiple models**
+    📊**Update 07/03 entropy + judge LLM hallucinations detection benchmark, 80%+ accuracy!**
     <br>
     <br>
     🖼️ **Update 12/02 support integration for VLM and visual attention monitoring**
